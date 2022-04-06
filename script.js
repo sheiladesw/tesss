@@ -1,0 +1,1 @@
+// file index.html include dengan script js
